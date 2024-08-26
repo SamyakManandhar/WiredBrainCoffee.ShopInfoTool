@@ -10,6 +10,8 @@ public class CoffeeShopDataProvider
         new CoffeeShop("Frankfurt", 45),
         new CoffeeShop("Zurich", 39),
         new CoffeeShop("Rome", 25),
+        new CoffeeShop("Lyon", 57)
+
 
         };
     }
