@@ -27,5 +27,9 @@ while (true)
         }
     }
 
+    else
+    {
+        Console.WriteLine($"Invalid Command:{command}");
+    }
 }
 
