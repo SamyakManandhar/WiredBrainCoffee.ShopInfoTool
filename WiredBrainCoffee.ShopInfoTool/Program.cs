@@ -1,8 +1,8 @@
 ﻿using WiredBrainCoffee.ShopInfoTool.Data;
 
-Console.WriteLine("--------------------------------------");
-Console.WriteLine(" Wired Brain Coffee - Shop Info Tool");
-Console.WriteLine("--------------------------------------");
+Console.WriteLine("------------------------------------------");
+Console.WriteLine(" Wired Brain Coffee - Shop Info Tool v1.0");
+Console.WriteLine("------------------------------------------");
 Console.WriteLine();
 Console.WriteLine("Commands:");
 Console.WriteLine("  quit   exit  application");
